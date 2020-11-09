@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #1bb1dc;
+  background: #4e1469;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .social-links a {
-  color: #413e66;
+  color: #4e1469;
   padding-left: 20px;
   display: inline-block;
   line-height: 1px;
@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #D4AF37;
+  background: #daa520;
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -165,12 +165,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-transparent {
-  background: #DAA520;
+  background: #daa520;
 }
 
 #header.header-scrolled {
   top: 0;
-  background:  #DAA520;
+  background: #daa520;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
 
@@ -185,7 +185,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #413e66;
+  color: #4e1469;
 }
 
 #header .logo img {
@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #413e66;
+  color: #4e1469;
   padding: 10px 0;
   transition: 0.3s;
   font-size: 14px;
@@ -270,7 +270,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 14px;
   font-weight: 500;
   text-transform: none;
-  color: #065e77;
+  color: #4e1469;
 }
 
 .main-nav .drop-down ul a:hover, .main-nav .drop-down ul .active > a, .main-nav .drop-down ul li:hover > a {
