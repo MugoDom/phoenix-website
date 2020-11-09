@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background: #fff;
-  color: #444;
+  background: #4e1469;
+  color: #fff;
   font-family: "Open Sans", sans-serif;
 }
 
@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #fff;
+  background: #D4AF37;
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -165,12 +165,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header.header-transparent {
-  background: transparent;
+  background: #DAA520;
 }
 
 #header.header-scrolled {
   top: 0;
-  background: #fff;
+  background:  #DAA520;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
 
